@@ -65,6 +65,7 @@ If you're hiring for FDE roles or just want to talk about AI in production:
 
 - 📧 **459269440@qq.com** (English / Chinese both fine)
 - 💬 WeChat: **13282001310**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/caspian-sun-404b6140b)
 
 I respond within 24h.
 
