@@ -12,8 +12,6 @@ I'm a **Forward Deployed Engineer** with 10 years of full-stack experience, curr
 **[spider](https://github.com/Caspian-Sun/spider)**
 — A Tauri 2 desktop tool that visualizes any `claude-code-workflow` repo as a kanban. A meta-tool: built with the methodology to render the methodology. Rust + React.
 
-**Cpcash Wallet** *(private repo, walkthrough on request)*
-— A Web3 mobile wallet shipping from a single Flutter codebase to Android, iOS, and HarmonyOS. 138 commits, 167 tasks closed at 100%, 13 days from init to dev/staging release.
 
 ---
 
@@ -58,13 +56,6 @@ Before AI, I:
 - *More long-form writing on AI workflow design coming soon — follow this profile to get notified.*
 
 ---
-
-### 💬 Want to chat?
-
-If you're hiring for FDE roles or just want to talk about AI in production:
-
-- 📧 **459269440@qq.com** (English / Chinese both fine)
-- 💬 WeChat: **13282001310**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/caspian-sun-404b6140b)
 
 I respond within 24h.
