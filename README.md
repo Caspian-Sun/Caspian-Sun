@@ -36,7 +36,7 @@ Data        PostgreSQL · MySQL · MongoDB · Redis · IndexedDB
 Before AI, I:
 - Led frontend teams of **20+** engineers at Pinming and Lanzhong
 - Built a self-hosted **low-code platform** (ServerUI) running Vue + React + Angular on the same page with sandbox isolation
-- Shipped products across **finance** (Zheshang Bank), **construction** (Pinming), **retail SaaS** (Shangpintong / Li-Ning / Peacebird), and **Web3** (Cpcash)
+- Shipped products across **finance** (Zheshang Bank), **construction** (Pinming), and **retail SaaS** (Shangpintong / Li-Ning / Peacebird)
 - Studied **Fine Arts** (undergrad) + CS minor — strong design intuition useful for AI-assisted design tooling
 
 ---
