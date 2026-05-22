@@ -29,14 +29,6 @@ Data        PostgreSQL · MySQL · MongoDB · Redis · IndexedDB
 
 ---
 
-### 🎯 Currently looking for
-
-**Forward Deployed Engineer** / **Applied AI Engineer** / **Solutions Engineer** roles, ideally at AI infrastructure companies, AI-native startups, or consultancies deploying AI to real customers.
-
-Open to remote · based in Hangzhou, China · willing to relocate.
-
-📫 **459269440@qq.com** · WeChat **13282001310**
-
 ---
 
 ### 📌 Background
